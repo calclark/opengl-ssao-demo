@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+
+IndentWidth: 4
+PointerAlignment: Left
+BinPackArguments: False
+BinPackParameters: False
+AlignAfterOpenBracket: AlwaysBreak
+AlignTrailingComments: False
+AllowShortBlocksOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: None
+AllowAllArgumentsOnNextLine: False
+Cpp11BracedListStyle: True
+SortIncludes: Never
+ReflowComments: False
