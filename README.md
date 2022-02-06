@@ -1,5 +1,7 @@
 # Screen Space Ambient Occlusion Demo
 
+![program screenshot](assets/sponza.jpg)
+
 Quick video summary available [here](https://youtu.be/Js-jTeCUcTE).
 
 Please see [main.cpp](src/main.cpp) for usage documentation.
